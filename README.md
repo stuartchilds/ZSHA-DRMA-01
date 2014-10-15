@@ -9,6 +9,8 @@ I hope you enjoy using these files and they enable you to make some cool stuff.
 
 DRMA is a two motor drawing machine inspired by many other machines of this design. I saw Matthew Venn messing around with a version of this and wanted to make one based on oomlout's OOBB design principle ( https://github.com/oomlout/oomlout-OOBB )
 
+Matt Venn originally inspired by this machine: http://inventorartist.com/art-o-matic-v1/
+
 I put time into this design so that I could run workshops for people - learning to solder the circuit board before getting to play with the machine and make some nice drawings.
 
 Circuit board was designed by Matt Venn - find it here https://oshpark.com/shared_projects/GKjx5Y9X
