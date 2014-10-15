@@ -26,16 +26,26 @@ B.O.M.
 	- 4x 3mm nylon rivet (or M3 16mm nylon screw)
 	- 4x M3 3mm nylon spacer (or 4x M3 nylon nuts)
 	- 8x 300mm jumper wires
+		- http://oomlout.co.uk/blogs/news/7869929-new-product-jumper-wires-premium-female-female-21-x-300-mm
 	- 4x long header pins
+		- http://oomlout.co.uk/products/long-headers-x4
 	- 1x drawing machine circuit board
+		- https://oshpark.com/shared_projects/GKjx5Y9X
 	- 2x 10k potentiometer
+		- http://oomlout.co.uk/products/potentiometer-10k-ohm-panel-mount
 	- 2x potentiometer knobs (optional)
 	- 2x DPDT push switches
+		- http://www.ebay.co.uk/itm/Miniature-DPDT-Switch-5-per-order-2-00-Item-1015-NEW-/251500883626
 	- 1x SPST on/off switch
-	- 2x LM382 motor driver IC
+		- http://uk.farnell.com/c-k-components/os102011ma1qn1/switch-spdt-0-1a-12v-pcb-r-a/dp/1201431?Ntt=1201431
+	- 2x LM317 motor driver IC
+		- http://uk.farnell.com/texas-instruments/lm317lclp/ic-adj-linear-reg-1-2v-to-32v-to/dp/2342553
 	- 2x 10k ohm resistor
+		- http://oomlout.co.uk/products/resistor-kit-resk-500-20-types
 	- 1x LED
+		- http://oomlout.co.uk/products/10mm-led-rainbow-pack
 	- 1x 220 ohm resistor
+		- http://oomlout.co.uk/products/resistor-kit-resk-500-20-types
 	- 4x M3 25mm self tapping screws
 	- 20x M6 nuts
 	- 2x M6 connecting/long nuts
@@ -45,6 +55,7 @@ B.O.M.
 	- 10x M6 16mm hex head bolts
 	- 8x M6 30mm hex head bolts
 
+(all hardware - screw, nuts and bolts ordered from http://www.orbitalfasteners.co.uk/ - my favourite online hardware supplier for bulk buys)
 ---
 Brief assembly notes
 
