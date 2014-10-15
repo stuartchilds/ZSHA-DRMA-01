@@ -55,6 +55,7 @@ B.O.M.
 	- 10x M6 16mm hex head bolts
 	- 8x M6 30mm hex head bolts
 
+
 (all hardware - screw, nuts and bolts ordered from http://www.orbitalfasteners.co.uk/ - my favourite online hardware supplier for bulk buys)
 ---
 Brief assembly notes
